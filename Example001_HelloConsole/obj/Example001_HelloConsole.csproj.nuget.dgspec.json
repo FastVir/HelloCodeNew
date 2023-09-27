@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fasvi\\OneDrive\\Рабочий стол\\Study\\CSharp\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "c:\\Users\\fasvi\\OneDrive\\Рабочий стол\\Study\\CSharp\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fasvi\\OneDrive\\Рабочий стол\\Study\\CSharp\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "c:\\Users\\fasvi\\OneDrive\\Рабочий стол\\Study\\CSharp\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fasvi\\OneDrive\\Рабочий стол\\Study\\CSharp\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "c:\\Users\\fasvi\\OneDrive\\Рабочий стол\\Study\\CSharp\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\fasvi\\OneDrive\\Рабочий стол\\Study\\CSharp\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "c:\\Users\\fasvi\\OneDrive\\Рабочий стол\\Study\\CSharp\\Examples\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\fasvi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fasvi\\OneDrive\\Рабочий стол\\Study\\CSharp\\Examples\\Example001_HelloConsole\\obj\\",
+        "outputPath": "c:\\Users\\fasvi\\OneDrive\\Рабочий стол\\Study\\CSharp\\Examples\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fasvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
